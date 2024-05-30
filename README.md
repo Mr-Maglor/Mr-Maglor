@@ -9,7 +9,7 @@
 
 - 👨‍💻 Tout les scripts que j'ai réalisé sont à dipo ici [https://github.com/Mr-Maglor/Scripting](https://github.com/Mr-Maglor/Scripting)
 
-- 📫 How to reach me **bruno.serna@gmail.com**
+- 📫 Comment me contacter  **bruno.serna@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
