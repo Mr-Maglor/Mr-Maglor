@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bruno Serna</h1>
 <h3 align="center">Actuellement en alternance pour devenir d'Administrateur d'Infrastructures Sécurisées avec la 2I Academy sur Lyon.</h3>
 
-- 🔭 J"ai terminer il y a peu le projet [BuildYourInfra](https://github.com/WildCodeSchool/TSSR-2402-P3-G4-BuildYourInfra-Pharmgreen)
+- 🔭 Jai terminé il y a peu le projet [BuildYourInfra](https://github.com/WildCodeSchool/TSSR-2402-P3-G4-BuildYourInfra-Pharmgreen)
 
 - 🌱 J'apprends actuellement à **coder en Python.**
 
