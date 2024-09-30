@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bruno Serna</h1>
-<h3 align="center">Actuellement en formation de Technicien Supérieur Système et Réseaux à la @WildCodeSchool</h3>
+<h3 align="center">Actuellement en alternance pour devenir d'Administrateur d'Infrastructures Sécurisées avec la 2I Academy sur Lyon.</h3>
 
-- 🔭 Je suis actuellement sur le projet [BuildYourInfra](https://github.com/WildCodeSchool/TSSR-2402-P3-G4-BuildYourInfra-Pharmgreen)
+- 🔭 J"ai terminer il y a peu le projet [BuildYourInfra](https://github.com/WildCodeSchool/TSSR-2402-P3-G4-BuildYourInfra-Pharmgreen)
 
-- 🌱 J'apprends actuellement à **gérer une infrastructure complète d'une société.**
+- 🌱 J'apprends actuellement à **coder en Python.**
 
-- 👯 J'ai précédemment mené à bien ce projet [The Scripting Project](https://github.com/WildCodeSchool/TSSR-2402-P2-G2-TheScriptingProject)
+- 👯 J'ai précédemment mené à bien ces projets [The Scripting Project](https://github.com/WildCodeSchool/TSSR-2402-P2-G2-TheScriptingProject) et [BuildYourInfra](https://github.com/WildCodeSchool/TSSR-2402-P3-G4-BuildYourInfra-Pharmgreen)
 
 - 👨‍💻 Tout les scripts que j'ai réalisé sont à dipo ici [https://github.com/Mr-Maglor/Scripting](https://github.com/Mr-Maglor/Scripting)
 
